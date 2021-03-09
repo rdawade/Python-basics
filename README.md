@@ -1,3 +1,2 @@
-
-# First python notebook here are some very basic things of python beggineer
+python
 python/first/basics
